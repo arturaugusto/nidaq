@@ -20,3 +20,5 @@ print task.get_volt_samples() # sample output: [-0.04225668 -0.10703132 -0.13892
 # First 3 samples are from channel 1 and last 3 from channel 3
 task.end()
 ```
+
+MIT license
