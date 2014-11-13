@@ -1,5 +1,4 @@
 # Adaptado por Artur Augusto - arturaugusto@gmail.com
-# para calibracao da placa 6351
 # This is a near-verbatim translation of the example program
 # C:\Program Files\National Instruments\NI-DAQ\Examples\DAQmx ANSI C\Analog In\Measure Voltage\Acq-Int Clk\Acq-IntClk.c
 import ctypes
